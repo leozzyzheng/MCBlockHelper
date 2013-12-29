@@ -13,4 +13,9 @@ Rectangle {
             Qt.quit();
         }
     }
+
+    ListView
+    {
+
+    }
 }

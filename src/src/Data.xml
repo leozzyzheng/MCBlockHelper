@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<Blocks>
+		<Block>
+			<ChineseName>空气</ChineseName>
+			<EnglishName>Air</EnglishName>
+			<MaterialName>AIR</MaterialName>
+			<MaterialID>0</MaterialID>
+		</Block>
+		<Block>
+			<ChineseName>石头</ChineseName>
+			<EnglishName>Stone</EnglishName>
+			<MaterialName>AIR</MaterialName>
+			<MaterialID>1</MaterialID>
+		</Block>
+	</Blocks>
+	<Items>
+		<Item>
+			<ChineseName>烈焰棒</ChineseName>
+			<EnglishName>Blaze Rod</EnglishName>
+			<MaterialName></MaterialName>
+			<MaterialID>369</MaterialID>
+			<MaterialDurability>0</MaterialDurability>
+		</Item>
+	</Items>
+</root>
